@@ -1,4 +1,4 @@
-# saveit_backend
+# Save IT Backend server
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -34,7 +34,7 @@ _Below is an example of how you can instruct your audience on installing and set
    ```
 3. Install pipenv package
    ```sh
-   pipenv install
+   pipenv update
    ```
 3. Run python django
    ```sh
